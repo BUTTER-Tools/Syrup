@@ -92,6 +92,8 @@ namespace Syrup
             pluginFiles.Add("Preproc_Contextualizer.zip", new List<string>() { "Preproc_Contextualizer.dll", "Dependencies/ContextObj.dll" });
             pluginFiles.Add("Preproc_ContextualizerHelper.zip", new List<string>() { "Preproc_ContextualizerHelper.dll", "Dependencies/ContextObj.dll" });
             pluginFiles.Add("Preproc_OmitObservation.zip", new List<string>() { "Preproc_OmitObservation.dll" });
+            pluginFiles.Add("Preproc_Phrasifier.zip", new List<string>() { "Preproc_Phrasifier" +
+                ".dll" });
             pluginFiles.Add("Preproc_RegExReplace.zip", new List<string>() { "Preproc_RegExReplace.dll" });
             pluginFiles.Add("Preproc_SplitTextIntoChunks.zip", new List<string>() { "Preproc_SplitTextIntoChunks.dll" });
             pluginFiles.Add("Preproc_StopList.zip", new List<string>() { "Preproc_StopList.dll" });
